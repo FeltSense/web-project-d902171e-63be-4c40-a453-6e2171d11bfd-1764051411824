@@ -1,0 +1,1 @@
+export default function Testimonials() { return <div className="p-4 border border-red-300 bg-red-50 text-red-700 rounded">Component Testimonials failed to generate.</div>; }
